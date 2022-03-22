@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Dr. William A. Abdu, M.D, M.S.",
+        "Fee": "300",
+        "img": "https://d2cyt36b7wnvt9.cloudfront.net/exams/wp-content/uploads/2017/01/05133450/Dr-William.png" ,
+        "description": "Dr. Abdu is an Associate Professor of Orthopedics and of The Dartmouth Institute Medical Director at Dartmouth-Hitchcock Medical Center Dr. Abdu got his accreditation in 1985 from Tufts University. He is a pioneer in the study and treatment of spine-related conditions. He hones surgery of the Spine, including Cervical, Thoracic and Lumbar Disorders, Disk Herniation, Spinal Stenosis"
+        
+    },
+    {
+        "id": 2,
+        "name": "Dr. Myles. B. Abbott, M.D.",
+        "Fee": "300",
+        "img": "https://d2cyt36b7wnvt9.cloudfront.net/exams/wp-content/uploads/2017/01/05133850/Dr.-Myles.-B.-Abbot.png" ,
+        "description": " Dr. Myles is also one of the best-known doctors of Pediatricians in the world. He graduated from the University of Miami Leonard M Miller School of Medicine in 1972. He treats the problems of growth and child development. Dr. Myles currently practices at East Bay Pediatric"
+        
+    },
+    {
+        "id": 3,
+        "name": "Dr. Fouad. M. Abbas, M.D.",
+        "Fee": "300",
+        "img": "https://d2cyt36b7wnvt9.cloudfront.net/exams/wp-content/uploads/2017/01/05042830/Fouad-Abbas.jpg" ,
+        "description": "Dr. Abbas is a well-known Gynecologist/Oncologist. His specialization field is Oncologist of Obstetrician and Gynecology. He is also considered to be one of the best doctors of Oncology in the world. The term Oncology is the study of cancer. Dr. Abbas graduated from the  "
+        
+    },
+    {
+        "id": 4,
+        "name": "Dr. Khalid Abbed, M.D.",
+        "Fee": "300",
+        "img": "https://d2cyt36b7wnvt9.cloudfront.net/exams/wp-content/uploads/2017/01/05133453/Dr.-Khalid.png" ,
+        "description": "Dr. Khalid is a famous doctor of Neuro. He is an Associate Professor and Chief of the Spine Section in the Department of Neurosurgery. His area of clinical interest is in the treatment of spinal disorders. "
+        
+    },
+    {
+        "id": 5,
+        "name": "Dr. Naresh Trehan",
+        "Fee": "300",
+        "img": "https://d2cyt36b7wnvt9.cloudfront.net/exams/wp-content/uploads/2017/01/05042813/Dr-Naresh-Trehan.jpg" ,
+        "description": " Dr. Naresh is a famous Indian cardiovascular and cardiothoracic surgeon. He was born on August 12, 1946, in Delhi, India. He obtained a medical degree from King George’s Medical College in Lucknow"
+        
+    },
+    {
+        "id": 6,
+        "name": "Dr. Arthur Reese Abright, M.D.",
+        "Fee": "300",
+        "img": "https://d2cyt36b7wnvt9.cloudfront.net/exams/wp-content/uploads/2017/01/05042820/Dr.-A.-Reese-Abright.png" ,
+        "description": "Dr. Reese is also one of the best doctors of Psychiatry. She treats the problems of depressions and mind-related problems. She is considered world’s best doctor by many. "
+        
+    },
+    {
+        "id": 7,
+        "name": "Dr. Corrie T.M Anderson, M.D.",
+        "Fee": "300",
+        "img": "https://d2cyt36b7wnvt9.cloudfront.net/exams/wp-content/uploads/2017/01/05042823/DR.-CORRIE-T.M-ANDERSON.jpg" ,
+        "description": "Dr. Anderson is also one of the best doctors in Pediatric Anesthesiologist around the world. He received his A.B. with Honors in Biochemistry from Harvard University and Doctor of Medicine (M.D) from Stanford University School of Medicine in 1982. He can be truly crowned as “world best doctor” "
+        
+    },
+    {
+        "id": 8,
+        "name": "Dr. Mark. F. Aaron, M.D.",
+        "Fee": "300",
+        "img": "https://d2cyt36b7wnvt9.cloudfront.net/exams/wp-content/uploads/2017/01/05043715/DR.-MARK.-F.-AARON.jpg" ,
+        "description": "Dr. Aaron is also one of the best doctors in cardiologists. His specialization is Cardiovascular Disease. The term Cardiology is related to the heart and its problems. He is a world famous doctor known for curing various heart diseases. "
+        
+    },
+    {
+        "id": 9,
+        "name": "Dr. Sudhansu Bhattacharyya, MBBS, MS, MCH",
+        "Fee": "300",
+        "img": "https://d2cyt36b7wnvt9.cloudfront.net/exams/wp-content/uploads/2017/01/05042828/Dr-SudhansuBhatacharya.jpg" ,
+        "description": "Dr. Sudhansu is also one of the best Indian Cardiovascular Surgeons. He obtained MBBS and M.S. General Surgery from Ahmedabad. He had invented, designed, and patented a few surgical instruments, the most important ones being Atrial Retractor for Mitral Valve Replacement and Internal Mammary Artery Retractor for taking down bilateral Internal Mammary Arteries. He is considered one of the best surgeon in the world."
+        
+    },
+    {
+        "id": 10,
+        "name": "Dr.Mona.M.Abaza, M.D.",
+        "Fee": "300",
+        "img": "https://d2cyt36b7wnvt9.cloudfront.net/exams/wp-content/uploads/2017/01/05042826/DR.-MONA-M.-ABAZA.jpg" ,
+        "description": "Dr. Abaza is a specialized doctor in ENT Otolaryngologist, Adenoidectomy, esophagoscopy, Nasal airway surgery, and tracheostomy. She is a world-famous ENT Doctor and treats problems of the ear, head, nose, throat, and neck."
+        
+    }
+]

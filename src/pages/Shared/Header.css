@@ -1,0 +1,36 @@
+/* .Header {
+    color:rgb(253, 253, 253);
+    display: grid;
+    grid-template-columns:  3fr 3fr;
+    background: rgb(155, 155, 155);
+    display: fixed;
+   
+}
+.Header h3 {
+    font-size: 2.5rem;
+    
+}
+
+.Navbar {
+    display: flex;
+    flex-direction: row;
+    /* text-align: right; 
+    margin: 0px;
+   height: 65px;
+ 
+}
+ */
+.navItem {
+    padding: 10px;
+    margin-left: 10px;
+    color:rgb(253, 253, 253);
+    font-size: 1.2rem;
+    text-decoration: none;
+    
+    
+    
+}
+/* .ml-3 {
+    margin-left: 250px;
+}
+ */
